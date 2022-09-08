@@ -1,0 +1,17 @@
+.footer__form {
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 28px ;
+    text-align: center;
+    line-height: 19px;
+}
+
+.footer__form a {
+    color: #1c1e21;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer__form a:hover {
+    text-decoration: underline;
+}

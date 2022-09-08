@@ -1,0 +1,27 @@
+.footer__options ul {
+    color: #8a8d91;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+    margin-left: -29px;
+    margin-top: 8px;
+    list-style: none;
+    line-height: 19px;
+    width: 980px;
+}
+
+.footer__options li {
+    padding-left: 20px;
+}
+
+.copyright p {
+    color: #737373;
+    margin-left: -9px;
+    margin-top: 22px;
+    font-size: 11px;
+}
+
+.footer__options li:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

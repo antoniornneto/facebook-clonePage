@@ -1,0 +1,17 @@
+.newAccount {
+    color: #fff;
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 46px;
+    width: 167px;
+    transition: 0.2s ease-in-out;
+}
+
+.newAccount:hover {
+    cursor: pointer;
+    background-color: #3da827;
+    transition: 0.2s ease-in-out;
+}

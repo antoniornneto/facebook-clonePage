@@ -1,0 +1,8 @@
+.principal__container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 496px;
+    padding: 20px 0;
+    width: 980px;
+}

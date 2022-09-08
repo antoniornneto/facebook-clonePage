@@ -1,0 +1,7 @@
+.form__container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 456px;
+    margin-left: 13px;
+}

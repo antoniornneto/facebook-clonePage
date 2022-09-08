@@ -1,0 +1,18 @@
+.singIn {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 46px;
+    margin-top: 10px;
+    width: 364px;
+    transition: 0.2s ease-in-out;
+}
+
+.singIn:hover {
+    background-color: #186fe0;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
